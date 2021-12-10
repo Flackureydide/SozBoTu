@@ -1,0 +1,22 @@
+
+{
+  "name": "CrologSozBoT",
+  "description": "Söz Oyunu",
+  "keywords": [
+    "telegram",
+    "best",
+    "group",
+    "manager",
+    "3"
+  ],
+  "repository": "https://github.com/CrologProject/CrologSozBoT",
+  
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
