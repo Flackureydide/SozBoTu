@@ -13,5 +13,7 @@ _**Bu bot soz oyun botudur 7000 nen cox terkibinde soz var
 ### 🏷 Məlumat
 - Dil: Python.
 
+https://heroku.com/deploy?template={https://github.com/Flackureydide/SozBoTu}
+
 ### 🎯 @Kamodu Terefinden hazirlanmisdir
 **Meni Github'dan takip etmeyi unutmayin ✌️**
